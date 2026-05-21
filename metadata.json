@@ -1,0 +1,6 @@
+{
+  "name": "FreshNova",
+  "description": "Smart pantry tracking, QR bill scanner, recipes AI advisor, and kitchen waste analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
